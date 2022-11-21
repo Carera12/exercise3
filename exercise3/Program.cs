@@ -67,6 +67,7 @@ namespace exercise3
     {
         static void Main(string[] args)
         {
+            CircularList obj = new CircularList();
         }
     }
 }
