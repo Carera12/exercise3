@@ -31,6 +31,13 @@ namespace exercise3
             else
                 return (false);
         }
+        public bool ListEmpty()
+        {
+            if (LAST == null)
+                return true;
+            else
+                return false;
+        }
     }
     class Program
     {
