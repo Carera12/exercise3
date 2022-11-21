@@ -12,6 +12,11 @@ namespace exercise3
         public string name;
         public Node Next;
     }
+    class CircularList
+    {
+        Node LAST;
+        
+    }
     class Program
     {
         static void Main(string[] args)
